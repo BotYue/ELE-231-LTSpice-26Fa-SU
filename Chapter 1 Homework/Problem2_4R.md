@@ -20,4 +20,4 @@ Hover your mouse cursor over each resistor. At the bottom of the LTspice window,
 
 1. Include a screenshot of the plot of the current flowing thru R1
 1. Include a screenshot of the plot of the current flowing thru R2
-3. Report the power dissipation of all 4 resistors R1, R2, R3, R5.
+3. Report the power dissipation of all 4 resistors R1, R2, R3, R4.
