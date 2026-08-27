@@ -21,4 +21,4 @@ Hover your mouse cursor over each resistor. At the bottom of the LTspice window,
 1. Include a screenshot of the plot of the current flowing thru R1
 1. Include a screenshot of the plot of the voltage drop across R1
 3. Include a screenshot the power dissipation of R1 shown by LTspice
-4. Calculate the power dissipated by R1 yourself using the formula $P=V\cdot I$
+4. Calculate the power dissipated by R1 yourself, using the formula $P=V\cdot I$
