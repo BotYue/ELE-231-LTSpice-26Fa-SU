@@ -19,5 +19,6 @@ Hover your mouse cursor over each resistor. At the bottom of the LTspice window,
 ## :orange: Required in your homework answer
 
 1. Include a screenshot of the plot of the current flowing thru R1
-1. Include a screenshot of the plot of the current flowing thru R2
-3. Report the power dissipation of all 4 resistors R1, R2, R3, R4.
+1. Include a screenshot of the plot of the voltage drop across R1
+3. Include a screenshot the power dissipation of R1 shown by LTspice
+4. Calculate the power dissipated by R1 yourself using the formula $P=V\cdot I$
