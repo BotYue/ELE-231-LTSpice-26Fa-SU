@@ -4,7 +4,7 @@
 
 ## Task
 
-In LTSpice, build this circuit with one resistor, one capacitor, one inductor.
+In LTSpice, build this circuit with one resistor, one inductor, one capacitor. 
 
 <img src="media/image4.png" width="300">
 
