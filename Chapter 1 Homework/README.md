@@ -1,10 +1,8 @@
 # Chapter 1 LTSpice Homework
 ## Circuit Terminology
 
-> *Yue Cao, Syracuse University EECS, 2026*
-
 - **Due:** Monday, Sept 14, 11:59 PM
-- **Submission format:** PDF or Word
+- **Submission format:** PDF or Word, to BlackBoard
 
 -----------
 ## Problem value assignment rule
@@ -24,14 +22,16 @@ Each variable is determined by the **position of a specific letter** of your nam
 
 ## 📋 Problems at a glance
 
-| Problem | Description | Pts | Deliverables |
-|---|---|---|---|
+| Problem | Description | Pts | 
+|---|---|---|
 | [1. 3R Circuit](Problem1_3R.md) | LTSpice Basic operations | 3 | 
 | [2. 4R Circuit](Problem2_4R.md) | Power in circuit | 3 |
 | [3. RLC](Problem3_RLC.md) | Circuit symbols, SI unit| 3 | 
 | [4. Nodes](Problem4_Nodes.md) | Analyze distinct nodes, extraordinary node | 3 |
 | [5. Work Statement](problem-5-work-statement.md) | Confirm each group member's contribution | 3 |
-| **Total** | | **15** | |
+| **Total** | | **15** |
 
 Each problem's page has a "**:orange: Required in your homework answer**" at the end. These instruct the details of exactly what to include in your submission. 
 
+
+> *Yue Cao, Syracuse University EECS, 2026 Fall semester*
