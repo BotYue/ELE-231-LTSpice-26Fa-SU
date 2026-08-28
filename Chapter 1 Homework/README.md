@@ -26,12 +26,12 @@ Each variable is determined by the **position of a specific letter** of your nam
 
 | Problem | Description | Pts | Deliverables |
 |---|---|---|---|
-| [1. 3R Circuit](Problem1_3R.md) | Place components with hotkeys | 4 | Circuit built with hotkeys + Transient setup |
-| [2. 4R Circuit](Problem2_4R.md) | Know different circuit symbols | 4 | Current plot + max current value (A) |
-| [3. RLC](Problem3_RLC.md) | Calculate balanced bridge value, verify zero current | 6 | Calculation + schematic + current plot |
-| [4. Current Source](problem-4-current-source.md) | Analyze current-source circuit, report node voltages | 3 | Schematic + $V_a$/$V_b$ plot |
-| [5. Work Statement](problem-5-work-statement.md) | Confirm each group member's contribution | 3 | Signed statement per member |
-| **Total** | | **20** | |
+| [1. 3R Circuit](Problem1_3R.md) | LTSpice Basic operations | 3 | 
+| [2. 4R Circuit](Problem2_4R.md) | Power in circuit | 3 |
+| [3. RLC](Problem3_RLC.md) | Circuit symbols, SI unit| 3 | 
+| [4. Nodes](Problem4_Nodes.md) | Analyze distinct nodes, extraordinary node | 3 |
+| [5. Work Statement](problem-5-work-statement.md) | Confirm each group member's contribution | 3 |
+| **Total** | | **15** | |
 
 Each problem's page has a "**:orange: Required in your homework answer**" at the end. These instruct the details of exactly what to include in your submission. 
 
