@@ -1,13 +1,13 @@
 # Chapter 1 LTSpice Homework
 ## Circuit Terminology
 
-*Yue Cao, Syracuse University EECS, 2026*
+> *Yue Cao, Syracuse University EECS, 2026*
 
 - **Due:** Monday, Sept 14, 11:59 PM
 - **Submission format:** PDF or Word
 
 -----------
-## Problem Value Assignment Rule
+## Problem value assignment rule
 
 In Problems 4 & 5, you will encounter customized values. Here is the rule:
 
