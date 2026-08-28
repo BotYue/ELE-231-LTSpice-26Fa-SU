@@ -1,6 +1,6 @@
 [← Back to overview](README.md)
 
-# Problem 4. Nodes in complex circuit
+# Problem 4. Nodes in a Complex Circuit
 
 ## Task
 
@@ -20,12 +20,18 @@ With LTSpice, you can quickly check how many distinct nodes in a circuit. To do 
 
 <img src="media/image8.png" width="400">
 
-Run the analysis, you will get a pop-out window showing you the report.
+Run the Analysis. A pop-out window will show the analysis report as a list. This report lists all distinct nodes except Ground.
+
+To identify which node corresponds to which location in your circuit:
+1. Go back to your circuit schematic.
+2. Hover your mouse cursor over each node/wire.
+3. At the bottom of the LTspice window, a text line will show, such as "This is node N001".
 
 -----
 
 ## :orange: Required in your homework answer
 
-1. Include a screenshot of the plot of the node voltage between R1 and R2.
-2. Include a screenshot of the plot of the voltage drop across R1.
-3. Include a screenshot of the plot of the current flowing thru R2.
+1. Include a screenshot of your circuit schematic.
+2. Include a LTSpice report of the DC operating point analysis. (*direct paste the list result*)
+3. Indicate how many distinct nodes are in the circuit (except Ground).
+4. Based on what you learned from class/textbook, indicate which nodes are extraordinary nodes (except Ground).
