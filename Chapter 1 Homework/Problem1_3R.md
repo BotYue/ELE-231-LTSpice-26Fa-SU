@@ -22,6 +22,10 @@ A few useful ones:
 | Rotate a component | `Ctrl + R` |
 | Zoom in/out | Middle mouse button |
 
+For R1 and R2, we recommend pressing **Ctrl+R three times** instead of once. 
+
+In LTspice, resistor terminals are ordered: a vertical resistor (default placement) has its first node at the top, while one 90° rotation moves the first node to the right.
+
 --------
 Once you finish placing components, go to **Analysis** and configure it as **Transient**.
 
