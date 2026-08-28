@@ -28,7 +28,7 @@ Each variable is determined by the **position of a specific letter** of your nam
 | [2. 4R Circuit](Problem2_4R.md) | Power in circuit | 3 |
 | [3. RLC](Problem3_RLC.md) | Circuit symbols, SI unit| 3 | 
 | [4. Nodes](Problem4_Nodes.md) | Analyze distinct nodes, extraordinary node | 3 |
-| [5. Work Statement](problem-5-work-statement.md) | Confirm each group member's contribution | 3 |
+| [5. Nodes](Problem5_Nodes.md) | Analyze distinct nodes, extraordinary node | 3 |
 | **Total** | | **15** |
 
 Each problem's page has a "**:orange: Required in your homework answer**" at the end. These instruct the details of exactly what to include in your submission. 
