@@ -6,6 +6,21 @@
 - **Due:** Monday, Sept 14, 11:59 PM
 - **Submission format:** PDF or Word
 
+-----------
+## Problem Value Assignment Rule
+
+In Problems 4 & 5, you will encounter customized values. Here is the rule:
+
+Each variable is determined by the **position of a specific letter** of your name in the alphabet (A = 1, B = 2, C = 3, … Z = 26).
+
+- **x** = position of the first letter of your **first name**
+- **y** = position of the first letter of your **last name**
+- **z** = position of the second letter of your **first name**
+
+**Example:**
+- Yue Cao → x=25, y=3, z=21
+- John Doe → x=10, y=4, z=15
+---
 
 ## 📋 Problems at a glance
 
@@ -18,5 +33,5 @@
 | [5. Work Statement](problem-5-work-statement.md) | Confirm each group member's contribution | 3 | Signed statement per member |
 | **Total** | | **20** | |
 
-Each problem's page has a ** Required in your answer**. These instruct the details of exactly what to submit. 
+Each problem's page has a "**:orange: Required in your homework answer**" at the end. These instruct the details of exactly what to include in your submission. 
 
