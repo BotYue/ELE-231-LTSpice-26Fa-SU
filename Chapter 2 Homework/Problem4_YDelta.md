@@ -12,7 +12,7 @@ Although Y-Δ transform will not be in the exam, I still want to show an example
 | <img src="media/Y_topo.png" width="450"> | <img src="media/Delta_topo.png" width="450"> |
 
 
-Above, the two circuits are equivalent. Their transform relationship is described in textbook 2-4.2. I pasted here:
+Above, the two circuits are equivalent. Their transform relationship (blue part of circuit) is described in textbook 2-4.2. I pasted here:
 
 ||
 |---|
