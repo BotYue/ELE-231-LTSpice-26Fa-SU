@@ -14,7 +14,9 @@ Although Y-Δ transform will not be in the exam, I still want to show an example
 
 Above, the two circuits are equivalent. Their transform relationship is described in textbook 2-4.2. I pasted here:
 
-<img src="media/Y_Delta_calculation.png" width="500">
+||
+|---|
+|<img src="media/Y_Delta_calculation.png" width="500">|
 
 - [ ] Apply these equations, calculate the $R_a$, $R_b$, $R_c$ values for the right circuit (Δ topology).
 - [ ] Build both circuit in LTSpice (2 seperate files). Configure Analysis -> Transient. Stop Time 1, others leave as empty.
