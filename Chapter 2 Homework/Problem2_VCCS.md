@@ -10,11 +10,12 @@ In LTSpice, build this circuit with resistors.
 
 #### How to build a voltage-controlled source in LTSpice
 
-Go to "Component", find the one named "g2".
+- [ ] Go to "Component", find the one named "g2". Place it
+- [ ] Right click to configure the value of "g2" to be 2.
 
 <img src="media/ltspice_g2.png" width="500">
 
-Add other components, make the circuit schematic look like such,
+- [ ] Add other components, make the circuit schematic look like such,
 
 <img src="media/ltspice_g2_dual_loop.png" width="700">
 
@@ -23,8 +24,12 @@ Next, we need to realize the $I=2V_{AB}$ in this circuit.
 - [ ] Label two nodes on the left loop as "A" and "B"; Then label the two extra terminals of the dependent source also as "A" and "B".
 <br> In Label Net, "Node Type" all set to "None"
 
+<img src="media/net_label.png" width="700">
+
 - [ ] Final schematic should look like such. Also don't forget to use your assigned x, y values from [README page](README.md)
 
+
+<img src="media/g2_final.png" width="700">
 
 ---------
 
@@ -32,13 +37,13 @@ Configure Analysis -> Transient.
 
 Stop Time: 0; Time to start saving data 0; Max timestep: 1
 
-Hover your mouse cursor over each resistor. At the bottom of the LTspice window, you can see the power dissipation of that resistor.
+Hover your mouse cursor to check the node voltage $V_C$ at Node C (*see the 1st pic, the node between dependent source and x Ω R*)
 
 -----
 
 ## :orange: Required in your homework answer
 
-1. Include a screenshot of the plot of the current flowing thru R1
-2. Include a screenshot of the plot of the voltage drop across R1
-3. Include a screenshot the power dissipation of R1 shown by LTSpice
-4. Calculate the power dissipation of R1 yourself. Use the formula $P=V\cdot I$, and with the current and voltage readings from LTSpice.
+1. Include a screenshot of your circuit schematic in LTSpice
+2. Include a screenshot of the plot of the node voltage at Node C
+3. Include a detailed derivation and calculation of $V_{AB}$ and $V_C$ using circuit analysis, like what you show in recitation worksheet. 
+   *(You may write the calculation by hand, take a clear photo, and insert the photo into the same document that you work on.)*
