@@ -33,9 +33,7 @@ Next, we need to realize the $I=2V_{AB}$ in this circuit.
 
 ---------
 
-Configure Analysis -> Transient.
-
-Stop Time: 0; Time to start saving data 0; Max timestep: 1
+Configure Analysis -> Transient. Stop Time 1, others leave as empty.
 
 Hover your mouse cursor to check the node voltage $V_C$ at Node C (*see the 1st pic, the node between dependent source and x Ω R*)
 
