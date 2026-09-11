@@ -27,7 +27,7 @@ In LTSpice, build this circuit with resistor and LED.
 
 ## :orange: Required in your homework answer
 
-1. Indicate your major and the led model you used
+1. Indicate your major and the LED model you used
 2. Search online for your led model, indicate its color
 3. Include a screenshot your circuit schematic in LTSpice
 4. Include a screenshot your i-v curve plot of the LED
