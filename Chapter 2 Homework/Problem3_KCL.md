@@ -6,15 +6,14 @@
 
 In LTSpice, build this circuit with resistors.
 
-<img src="media/KCL_1.png" width="600">
+<img src="media/KCL_1.png" width="500">
 
-Configure Analysis -> Transient. Stop Time 1, others leave as empty.
+- [ ] Configure Analysis -> Transient. Stop Time 1, others leave as empty.
 
-Use the plots to inspect the **3 currents around the Node A.**
+- [ ] Use the plots to inspect the **3 currents around the Node A.**
 
-Use the "Text" in LTSpice to label all 3 current values and directions around the Node A.
-
-Here is an example that I label one current. You still need to label the other two.
+- [ ] Use the "Text" (blue t on top bar) in LTSpice to label all 3 current values and directions around the Node A.
+<br>Here is an example that I label one current. You still need to label the other two.
 
 <img src="media/KCL_2.png" width="600">
 
