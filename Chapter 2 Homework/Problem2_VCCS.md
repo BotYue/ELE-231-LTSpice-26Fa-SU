@@ -28,8 +28,9 @@ Next, we need to realize the $I=2V_{AB}$ in this circuit.
 
 - [ ] Final schematic should look like such. Also don't forget to use your assigned x, y values from [README page](README.md)
 
-
-<img src="media/g2_final.png" width="700">
+|Final Schematic|
+|---|
+|<img src="media/g2_final.png" width="700">|
 
 ---------
 
