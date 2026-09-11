@@ -6,7 +6,7 @@
 
 In LTSpice, build this circuit with resistor and LED.
 
-
+<img src="media/led - Copy.png" width="500">
 
 
 
