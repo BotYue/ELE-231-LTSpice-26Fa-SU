@@ -6,13 +6,18 @@
 
 In LTSpice, build this circuit with resistors.
 
-<img src="media/image6.png" width="400">
+<img src="media/KCL_1.png" width="600">
 
-Configure Analysis -> Transient.
+Configure Analysis -> Transient. Stop Time 1, others leave as empty.
 
-Stop Time: 0; Time to start saving data 0; Max timestep: 1
+Use the plots to inspect the 3 currents around the Node A.
 
-Hover your mouse cursor over each resistor. At the bottom of the LTspice window, you can see the power dissipation of that resistor.
+Use the "Text" in LTSpice to label all 3 current values and direction around the Node A.
+
+Here is an example that I label one current. You still need to label the other two.
+
+<img src="media/KCL_2.png" width="600">
+
 
 -----
 
