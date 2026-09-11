@@ -8,9 +8,21 @@ In LTSpice, build this circuit with resistors.
 
 <img src="media/dual_loop_diagram.png" width="600">
 
-#### How to build a voltage-controlled source in LTSpice dependent
+#### How to build a voltage-controlled source in LTSpice
 
 Go to "Component", find the one named "g2".
+
+<img src="media/ltspice_g2.png" width="500">
+
+Add other components, make the circuit schematic look like such,
+
+<img src="media/ltspice_g2_dual_loop.png" width="700">
+
+Next, we need to realize the $I=2V_{AB}$ in this circuit. 
+<br> To do so, we use the "Label Net" in LTSpice to establish the electrical connection from Node A, NodeB to the dependent source.
+<br> Label two nodes on the left loop as "A" and "B"; Then label the two extra terminals of the dependent source also as "A" and "B".
+
+
 
 ---------
 
