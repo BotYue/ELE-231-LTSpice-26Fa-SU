@@ -19,9 +19,11 @@ Add other components, make the circuit schematic look like such,
 <img src="media/ltspice_g2_dual_loop.png" width="700">
 
 Next, we need to realize the $I=2V_{AB}$ in this circuit. 
-<br> To do so, we use the "Label Net" in LTSpice to establish the electrical connection from Node A, NodeB to the dependent source.
-<br> Label two nodes on the left loop as "A" and "B"; Then label the two extra terminals of the dependent source also as "A" and "B".
+- [ ] To do so, we use the "Label Net" in LTSpice to establish the electrical connection from Node A, NodeB to the dependent source.
+- [ ] Label two nodes on the left loop as "A" and "B"; Then label the two extra terminals of the dependent source also as "A" and "B".
+<br> In Label Net, "Node Type" all set to "None"
 
+- [ ] Final schematic should look like such. Also don't forget to use your assigned x, y values from [README page](README.md)
 
 
 ---------
