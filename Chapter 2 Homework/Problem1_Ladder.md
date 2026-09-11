@@ -6,7 +6,7 @@
 
 In LTSpice, build this circuit with resistors.
 
-<img src="media/ladder.png.png" width="400">
+<img src="media/ladder.png" width="600">
 
 Set the voltage source value $V_x$ = x, 
 
@@ -29,4 +29,4 @@ Then click and use the plot to check what is the current thru the voltage source
 
 3. Include a detailed derivation and calculation of Equivalent Resistance $R_{eq}$ based on series-parallel reduction, like what you show in recitation worksheet. 
 
-   *(You may write the calculation by hand, take a clear photo, and insert the photo into the same document.)*
+   *(You may write the calculation by hand, take a clear photo, and insert the photo into the same document that you work on.)*
