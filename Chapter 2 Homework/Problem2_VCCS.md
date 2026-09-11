@@ -6,7 +6,13 @@
 
 In LTSpice, build this circuit with resistors.
 
-<img src="media/image6.png" width="400">
+<img src="media/dual_loop_diagram.png" width="600">
+
+#### How to build a voltage-controlled source in LTSpice dependent
+
+Go to "Component", find the one named "g2".
+
+---------
 
 Configure Analysis -> Transient.
 
