@@ -13,11 +13,10 @@ Each variable is determined by the **position of a specific letter** of your nam
 
 - **x** = position of the first letter of your **first name**
 - **y** = position of the first letter of your **last name**
-- **z** = position of the second letter of your **first name**
 
 **Example:**
-- Yue Cao → x=25, y=3, z=21
-- John Doe → x=10, y=4, z=15
+- Yue Cao → x=25, y=3
+- John Doe → x=10, y=4
 ---
 
 ## 📋 Problems at a glance
