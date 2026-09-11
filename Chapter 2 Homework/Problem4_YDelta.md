@@ -1,18 +1,19 @@
 [← Back to overview](README.md)
 
-# Problem 3. KCL
+# Problem 4. Y-Δ circuit transform
 
 ## Task
 
-In LTSpice, build this circuit with resistors.
+Although Y-Δ transform will not be in the exam, I still want to show an example here in homework.
 
-<img src="media/image6.png" width="400">
 
-Configure Analysis -> Transient.
+| Y (or T) topology | Δ (or Π) topology |
+|---------------------|------------------------------|
+| <img src="media/Y_topo.png" width="450"> | <img src="media/Delta_topo.png" width="450"> |
 
-Stop Time: 0; Time to start saving data 0; Max timestep: 1
 
-Hover your mouse cursor over each resistor. At the bottom of the LTspice window, you can see the power dissipation of that resistor.
+Above, the two circuits are equivalent. Their transform relationship is described in textbook 2-4.2. I pasted here:
+
 
 -----
 
