@@ -17,7 +17,7 @@ Above, the two circuits are equivalent. Their transform relationship is describe
 <img src="media/Y_Delta_calculation.png" width="500">
 
 - [ ] Apply these equations, calculate the $R_a$, $R_b$, $R_c$ values for the right circuit (Δ topology).
-- [ ] Build both circuit in LTSpice.
+- [ ] Build both circuit in LTSpice (2 seperate files). Configure Analysis -> Transient. Stop Time 1, others leave as empty.
 - [ ] Inspect the currents thru the voltage source in both circuits in LTSpice. You should get the same value since they are equivalent.
 
 -----
