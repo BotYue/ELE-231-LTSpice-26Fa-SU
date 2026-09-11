@@ -22,7 +22,7 @@ In LTSpice, build this circuit with resistors.
 Next, we need to realize the $I=2V_{AB}$ in this circuit. 
 - [ ] To do so, we use the "Label Net" in LTSpice to establish the electrical connection from Node A, NodeB to the dependent source.
 - [ ] Label two nodes on the left loop as "A" and "B"; Then label the two extra terminals of the dependent source also as "A" and "B".
-<br> In Label Net, "Node Type" all set to "None"
+<br> In Label Net, "Port Type" all set to "None"
 
 <img src="media/net_label.png" width="700">
 
