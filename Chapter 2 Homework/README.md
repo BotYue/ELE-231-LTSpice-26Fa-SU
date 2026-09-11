@@ -27,7 +27,7 @@ Each variable is determined by the **position of a specific letter** of your nam
 | [1. Ladder](Problem1_Ladder.md) | Calculate equivalent resistance of a ladder circuit | 3 |
 | [2. VCCS](Problem2_VCCS.md) | Analyze a circuit with voltage-controlled current source (VCCS) | 3 |
 | [3. KCL](Problem3_KCL.md) | Use KCL to analyze a node | 3 |
-| [4. Y-Delta](Problem4_Y-Delta.md) | Y-Δ circuit transform | 3 |
+| [4. YDelta](Problem4_YDelta.md) | Y-Δ circuit transform | 3 |
 | [5. LED](Problem5_LED.md) | Inspect i-v relationship of a LED circuit | 3 |
 | **Total** | | **15** |
 
