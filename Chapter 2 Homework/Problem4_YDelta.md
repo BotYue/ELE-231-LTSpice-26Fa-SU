@@ -14,6 +14,11 @@ Although Y-Δ transform will not be in the exam, I still want to show an example
 
 Above, the two circuits are equivalent. Their transform relationship is described in textbook 2-4.2. I pasted here:
 
+<img src="media/Y_Delta_calculation.png" width="500">
+
+- [ ] Apply these equations, calculate the $R_a$, $R_b$, $R_c$ values for the right circuit (Δ topology).
+- [ ] Build both circuit in LTSpice.
+- [ ] Inspect the currents thru the voltage source in both circuits in LTSpice. You should get the same value since they are equivalent.
 
 -----
 
