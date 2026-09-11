@@ -47,3 +47,5 @@ Hover your mouse cursor to check the node voltage $V_C$ at Node C (*see the 1st 
 2. Include a screenshot of the plot of the node voltage at Node C
 3. Include a detailed derivation and calculation of $V_{AB}$ and $V_C$ using circuit analysis, like what you show in recitation worksheet. 
    *(You may write the calculation by hand, take a clear photo, and insert the photo into the same document that you work on.)*
+
+> **Note:** For 3., Full steps are required for full credit.
