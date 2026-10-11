@@ -23,8 +23,8 @@ Each variable is determined by the **position of a specific letter** of your nam
 
 | Problem | Description | Pts |
 |---|---|---|
-| [1. Nodal Analysis I](Problem1_Nodal_Analysis_I.md) | Nodal Analysis | 4.5 |
-| [2. Nodal Analysis II](Problem2_Nodal_Analysis_II.md) | Nodal Analysis  | 4.5 |
+| [1. Nodal Analysis I](Problem1_Nodal%20Analysis%20I.md) | Nodal Analysis | 4.5 |
+| [2. Nodal Analysis II](Problem1_Nodal%20Analysis%20II.md) | Nodal Analysis  | 4.5 |
 | [3. Thevenin](Problem3_Thevenin.md) | Thevenin | 3 |
 | [4. Max Power](Problem4_MaxPower.md) | Max Power Transfer | 3 |
 | **Total** | | **15** |
