@@ -1,14 +1,14 @@
 [← Back to overview](README.md)
 
-# Problem 1. Nodal Analysis
+# Problem 2. Nodal Analysis
 
 ## Task
 
 In LTSpice, build this circuit with resistors.
 
-Set the **R1** and **R4** values, based on the **x, y**  on the [README page](README.md)
+Set the **R1** values, based on the **x**  on the [README page](README.md)
 
-<img src="media/nodal1.png" width="600">
+<img src="media/nodal2.png" width="600">
 
 
 
@@ -31,7 +31,8 @@ To identify which node corresponds to which location in your circuit:
 
 2. Include a LTSpice report of the DC operating point analysis. (*direct paste the list result*)
 
-3. Provide a detailed, step-by-step nodal analysis to this circuit. You should write it as detailed as the instructor showed in class. (step 1...step 2... step 3...)
+3. Provide a detailed, step-by-step nodal analysis to this circuit. You should write it as detailed as the instructor showed in class. (step 1...step 2... step 3...).
+   <br> Note such circuit requires you to use **supernode** in analysis.
    <br> You are expected the get the same final results as the simulation.
 
    *(You may write the calculation by hand, take a clear photo, and insert the photo into the same document that you work on.)*
