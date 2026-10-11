@@ -1,7 +1,7 @@
-# Chapter 2 LTSpice Homework
-## Circuit Terminology
+# Chapter 3 LTSpice Homework
+## Analysis Techniques
 
-- **Due:** Monday, Oct 5, 11:59 PM
+- **Due:** Monday, Nov 2, 11:59 PM
 - **Submission format:** PDF or Word, to BlackBoard
 
 -----------
@@ -23,11 +23,10 @@ Each variable is determined by the **position of a specific letter** of your nam
 
 | Problem | Description | Pts |
 |---|---|---|
-| [1. Ladder](Problem1_Ladder.md) | Nodal Analysis | 3 |
-| [2. VCCS](Problem2_VCCS.md) | Nodal Analysis with format in llm | 3 |
-| [3. KCL](Problem3_KCL.md) | Superposition | 3 |
-| [4. YDelta](Problem4_YDelta.md) | Thevenin | 3 |
-| [5. LED](Problem5_LED.md) | Max Power Trasnfer | 3 |
+| [1. Nodal Analysis I](Problem1_Nodal_Analysis_I.md) | Nodal Analysis | 4.5 |
+| [2. Nodal Analysis II](Problem2_Nodal_Analysis_II.md) | Nodal Analysis  | 4.5 |
+| [3. Thevenin](Problem3_Thevenin.md) | Thevenin | 3 |
+| [4. Max Power](Problem4_MaxPower.md) | Max Power Transfer | 3 |
 | **Total** | | **15** |
 
 Each problem's page has a "**:orange: Required in your homework answer**" at the end. These instruct the details of exactly what to include in your submission. 
