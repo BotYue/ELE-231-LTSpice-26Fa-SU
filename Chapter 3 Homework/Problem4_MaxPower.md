@@ -1,12 +1,24 @@
 [← Back to overview](README.md)
 
-# Problem 3. Thevenin
+# Problem 4. Max Power Transfer
 
 ## Task
 
-First, for this circuit, find its Thevenin equivalent circuit at terminals (a,b)
+We will study the Maximum Power Transfer of this circuit.
 
-<img src="media/nodal1.png" width="600">
+- [ ] You  pick a specific $R_{src}$ value based on your major.
+- [ ] $R_{load}$ value will wait to be studied.
+      
+|Major|$R_{src}$|
+|---|---| 
+|ME| 220 Ω|
+|AE| 330 Ω|
+|EE|  470 Ω|
+|CE| 560 Ω|
+|Other| 680 Ω|
+
+
+<img src="media/maxpower1.png" width="400">
 
 -------
 
