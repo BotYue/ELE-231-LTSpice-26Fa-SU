@@ -6,7 +6,9 @@
 
 First, for this circuit, find its Thevenin equivalent circuit at terminals (a,b)
 
-<img src="media/nodal1.png" width="600">
+Obtain $V_{Th}$ and $R_{Th}$. You need to show your detailed calculation by hand.
+
+<img src="media/Vth1.png" width="600">
 
 -------
 
@@ -14,11 +16,14 @@ First, for this circuit, find its Thevenin equivalent circuit at terminals (a,b)
 
 Second, In LTSpice, build this circuit with resistors.
 
-Set the **R1** and **R4** values, based on the **x, y**  on the [README page](README.md)
+<img src="media/Vth2.png" width="600">
 
-
-
-
+* Top one is the original circuit with a large load $R_{load} =99 \Omega$
+* Bottom one is the equivalent one with the same load $R_{load} =99 \Omega$
+* For the bottom one, you will set up the voltage source **V2** as the green arrow indicated.
+  <br> The DC value of **V2** will be your caulcated $V_{Th}$.
+  <br> The series resistance of **V2** will be your calculated $R_{Th}$.
+* Run the 
 
 --------
 Run the DC operating points Analysis ("Analysis" -> "DC op pnt"). 
