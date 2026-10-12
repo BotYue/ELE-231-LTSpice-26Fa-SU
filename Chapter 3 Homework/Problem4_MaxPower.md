@@ -42,7 +42,8 @@ Second, In LTSpice, build circuit as such way.
 - [ ] This is a final plot I got when I set $R_{src} = 80  Ω$
 
 
-<img src="media/maxpower3.png" width="400">
+<img src="media/maxpower3.png" width="600">
+
 -----
 
 ## :orange: Required in your homework answer
