@@ -30,36 +30,31 @@ Second, In LTSpice, build circuit as such way.
 ```
 .step param R 50 1000 10
 ```
+
+<img src="media/maxpower2.png" width="400">
+
 - [ ] Run the DC operating points Analysis ("Analysis" -> "DC op pnt").
 - [ ] Use the meassurement pen to plot
     * the node voltage above the $R_{load}$
     * the current thru the $R_{load}$
-- [ ] In the plot, continue to configure by entering the algebric expression of power, such as `V(n002)*I(Rload)`.
+- [ ] In the plot, continue to add a trace by entering the algebric expression of power, such as `V(n002)*I(Rload)`.
+
+- [ ] This is a final plot I got when I set $R_{src} = 80  Ω$
 
 
---------
-Run the DC operating points Analysis ("Analysis" -> "DC op pnt"). 
-
-A pop-out window will show the analysis report as a list. This report lists all distinct nodes except Ground.
-
-To identify which node corresponds to which location in your circuit:
-
-1. Go back to your circuit schematic.
-2. Hover your mouse cursor over each node.
-3. At the bottom of the LTspice window, a text line will show, such as "This is node n001".
-
+<img src="media/maxpower3.png" width="400">
 -----
 
 ## :orange: Required in your homework answer
 
-1. Include a screenshot of your circuit schematic.
+1. Include your major and your corresponding $R_{src}$
 
-2. Include a LTSpice report of the DC operating point analysis. (*direct paste the list result*)
+2. Include a Include a screenshot of your circuit schematic.
 
-3. Provide a detailed, step-by-step nodal analysis to this circuit. You should write it as detailed as the instructor showed in class. (step 1...step 2... step 3...)
-   <br> You are expected the get the same final results as the simulation.
+3. Include a screenshot of your final plot with voltage trace, current trace, and power trace.
 
-   *(You may write the calculation by hand, take a clear photo, and insert the photo into the same document that you work on.)*
+4. Write 3 sentences, one for each trace (voltage, current, and power), describing how it changes over time.
+
 
 
 
