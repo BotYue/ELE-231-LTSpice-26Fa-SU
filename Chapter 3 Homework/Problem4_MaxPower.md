@@ -54,7 +54,7 @@ Second, In LTSpice, build circuit as such way.
 
 3. Include a screenshot of your final plot with voltage trace, current trace, and power trace.
 
-4. Write 3 sentences, one for each trace (voltage, current, and power), describing how it changes over time.
+4. Write 3 sentences, one for each trace (voltage, current, and power), describing how it changes over $R_{load}$.
 
 
 
