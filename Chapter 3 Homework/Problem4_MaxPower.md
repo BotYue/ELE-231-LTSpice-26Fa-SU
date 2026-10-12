@@ -50,7 +50,7 @@ Second, In LTSpice, build circuit as such way.
 
 1. Include your major and your corresponding $R_{src}$
 
-2. Include a Include a screenshot of your circuit schematic.
+2. Include a screenshot of your circuit schematic.
 
 3. Include a screenshot of your final plot with voltage trace, current trace, and power trace.
 
