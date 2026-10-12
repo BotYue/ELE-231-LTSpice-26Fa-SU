@@ -22,14 +22,19 @@ We will study the Maximum Power Transfer of this circuit.
 
 -------
 
+Second, In LTSpice, build circuit as such way.
+- [ ] A similar video walk-thru can be found in https://youtu.be/BqnUZj3eUE0 
+- [ ] Set $R_{load}$ value as {R}
+- [ ] In LTSpice "Directive", enter such statement
 
-
-Second, In LTSpice, build this circuit with resistors.
-
-Set the **R1** and **R4** values, based on the **x, y**  on the [README page](README.md)
-
-
-
+```
+.step param R 50 1000 10
+```
+- [ ] Run the DC operating points Analysis ("Analysis" -> "DC op pnt").
+- [ ] Use the meassurement pen to plot
+    * the node voltage above the $R_{load}$
+    * the current thru the $R_{load}$
+- [ ] In the plot, continue to configure by entering the algebric expression of power, such as `V(n002)*I(Rload)`.
 
 
 --------
