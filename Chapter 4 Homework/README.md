@@ -23,10 +23,10 @@ Each variable is determined by the **position of a specific letter** of your nam
 
 | Problem | Description | Pts |
 |---|---|---|
-| [1. Nodal Analysis I](Problem1_Nodal%20Analysis%20I.md) | Basic Op-Amp Built-up | 3 |
-| [2. Nodal Analysis II](Problem2_Nodal%20Analysis%20II.md) | Summing Amp  | 4 |
-| [3. Thevenin](Problem3_Thevenin.md) | Difference Amp | 4 |
-| [4. Max Power](Problem4_MaxPower.md) | Op-Amp Cascade | 4 |
+| [1. TBD](Problem1_ZZZ.md) | Basic Op-Amp Built-up | 3 |
+| [2. TBD](Problem2_ZZZZ.md) | Summing Amp  | 4 |
+| [3. TBD](Problem3_ZZZZ.md) | Difference Amp | 4 |
+| [4. TBD](Problem4_ZZZZZ.md) | Op-Amp Cascade | 4 |
 | **Total** | | **15** |
 
 Each problem's page has a "**:orange: Required in your homework answer**" at the end. These instruct the details of exactly what to include in your submission. 
