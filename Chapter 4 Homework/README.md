@@ -26,7 +26,7 @@ Each variable is determined by the **position of a specific letter** of your nam
 | [1. Basic OpAmp](Problem1_Basic%20OpAmp.md) | Learn how to set up OpAmp in LTSpice | 3 |
 | [2. Summing Amp](Problem2_Summing%20Amp.md) | Summing Amp  | 4 |
 | [3. Difference Amp](Problem3_Difference%20Amp.md) | Difference Amp | 4 |
-| [4. TBD](Problem4_ZZZZZ.md) | Op-Amp Cascade | 4 |
+| [4. Cascade](Problem4_Cascade.md) | Op-Amp Cascade | 4 |
 | **Total** | | **15** |
 
 Each problem's page has a "**:orange: Required in your homework answer**" at the end. These instruct the details of exactly what to include in your submission. 
