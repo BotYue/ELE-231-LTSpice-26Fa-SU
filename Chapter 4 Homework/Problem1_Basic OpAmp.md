@@ -37,7 +37,7 @@ In LTSpice, build the same circuit with in the tutorial. But:
 > [!TIP]
 > If you have difficulty, I attach an example schematic file in the GitHub folder, named "OpAmp Minimal Wiring.asc", [quick link->](OpAmp%20Minimal%20Wiring.asc)
 >
-> You can download its raw file from GitHub, then open the downloaded .asc with LTSpice.
+> You can **download its raw file** from GitHub, then open the downloaded .asc with LTSpice.
 
 
 -----
