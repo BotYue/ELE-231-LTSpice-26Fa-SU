@@ -23,7 +23,7 @@ This tutorial shows you how to set up a simple voltage follower (also called as 
 - [ ] The final schematic looks like such:
       
 
-<img src="media/full circuit.png" width="500">
+<img src="media/full circuit.png" width="700">
 
 ---------
 
