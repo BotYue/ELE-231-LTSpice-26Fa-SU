@@ -2,6 +2,12 @@
 
 # Problem 1. Basic OpAmp Built-up
 
+## Tutorial
+All Op-Amp circuits in our ELE 231 course will be in the setting of **ideal op-amp with negative feedback.**
+
+This tutorial shows you how to set up such circuit in LTSpice.
+
+
 ## Task
 
 In LTSpice, build this circuit with resistors.
@@ -11,17 +17,6 @@ Set the **R1** and **R4** values, based on the **x, y**  on the [README page](RE
 <img src="media/nodal1.png" width="600">
 
 
-
---------
-Run the DC operating points Analysis ("Analysis" -> "DC op pnt"). 
-
-A pop-out window will show the analysis report as a list. This report lists all distinct nodes except Ground.
-
-To identify which node corresponds to which location in your circuit:
-
-1. Go back to your circuit schematic.
-2. Hover your mouse cursor over each node.
-3. At the bottom of the LTspice window, a text line will show, such as "This is node n001".
 
 -----
 
