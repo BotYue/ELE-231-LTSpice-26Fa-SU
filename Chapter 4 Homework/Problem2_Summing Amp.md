@@ -6,9 +6,11 @@
 
 ## Task
 
-In LTSpice, build a inverting summing amp with 3 voltage inputs. 
+In LTSpice, build an Inverting Summing Amp with 3 voltage inputs. 
 
-Follow the circuit diagram from this textbook picture and built it.
+Follow the circuit diagram on the left side of this textbook figure:
+
+<img src="media/summer.png" width="800">
 
 * Set the input **$v_1$** to be your **x** value on the [README page](README.md)
 * Set the input **$v_2$** to be your **y** value on the [README page](README.md)
@@ -27,4 +29,6 @@ Follow the circuit diagram from this textbook picture and built it.
 
 2. Include a LTSpice report of the DC operating point analysis. (*direct paste the list result*)
 
-3. Calculate $$v_0=$$
+3. Calculate: the output voltage theoretically using the summing amp equation (listed in the figure above). 
+<br> Compare with your LTSpice analysis result.
+<br> Show calculation, not just final result.
