@@ -1,7 +1,7 @@
 # Chapter 4 LTSpice Homework
 ## Op-Amp
 
-- **Due:** Monday, Nov 30, 11:59 PM
+- **Due:** Monday, Nov 16, 11:59 PM
 - **Submission format:** PDF or Word, to BlackBoard
 
 -----------
@@ -23,7 +23,7 @@ Each variable is determined by the **position of a specific letter** of your nam
 
 | Problem | Description | Pts |
 |---|---|---|
-| [1. TBD](Problem1_ZZZ.md) | Basic Op-Amp Built-up | 3 |
+| [1. Basic OpAmp](Problem1_Basic%20OpAmp.md) | Learn how to set up OpAmp in LTSpice | 3 |
 | [2. TBD](Problem2_ZZZZ.md) | Summing Amp  | 4 |
 | [3. TBD](Problem3_ZZZZ.md) | Difference Amp | 4 |
 | [4. TBD](Problem4_ZZZZZ.md) | Op-Amp Cascade | 4 |
