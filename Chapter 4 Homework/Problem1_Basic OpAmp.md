@@ -32,7 +32,7 @@ This tutorial shows you how to set up a simple voltage follower (also called as 
 In LTSpice, build the same circuit with in the tutorial. But:
 
 * Set the input voltage to be your **x** value on the [README page](README.md)
-* Set the feedback resistance to be your **y** value on the [README page](README.md)
+* Set the feedback resistance R1 to be your **y** value on the [README page](README.md)
 
 > [!TIP]
 > If you have difficulty, I attach an example schematic file in the GitHub folder, named "OpAmp Minimal Wiring.asc", [quick link->](OpAmp%20Minimal%20Wiring.asc)
@@ -48,7 +48,7 @@ In LTSpice, build the same circuit with in the tutorial. But:
 
 2. Include a LTSpice report of the DC operating point analysis. (*direct paste the list result*)
 
-3. Based on the analysis result, indicate what is the voltage at the output, what is the current thru the feedback resistor?
+3. Based on the analysis result, indicate what is the voltage at the output, what is the current thru the feedback resistor R1?
 
 > [!NOTE]
 > The LTSpice OpAmp model we used is very nearly ideal, but not perfectly ideal.
