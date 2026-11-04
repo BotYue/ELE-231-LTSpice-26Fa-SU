@@ -25,7 +25,7 @@ Each variable is determined by the **position of a specific letter** of your nam
 |---|---|---|
 | [1. Basic OpAmp](Problem1_Basic%20OpAmp.md) | Learn how to set up OpAmp in LTSpice | 3 |
 | [2. Summing Amp](Problem2_Summing%20Amp.md) | Summing Amp  | 4 |
-| [3. TBD](Problem3_ZZZZ.md) | Difference Amp | 4 |
+| [3. Difference Amp](Problem3_Difference%20Amp.md) | Difference Amp | 4 |
 | [4. TBD](Problem4_ZZZZZ.md) | Op-Amp Cascade | 4 |
 | **Total** | | **15** |
 
