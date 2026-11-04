@@ -14,7 +14,7 @@ Follow the circuit diagram on the left side of this textbook figure:
 
 * Set the input **$v_1$** to be your **x** value on the [README page](README.md)
 * Set the input **$v_2$** to be your **y** value on the [README page](README.md)
-* $R_1=1$ Ω, $R_2=3$ Ω, $R_3=2$ Ω, $R_4=4$ Ω,
+* $R_1=1$ Ω, $R_2=3$ Ω, $R_3=2$ Ω, $R_4=6$ Ω,
 * Perform DC operating points analysis.
 
 > [!NOTE]
