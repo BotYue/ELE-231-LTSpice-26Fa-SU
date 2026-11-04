@@ -1,6 +1,6 @@
 [← Back to overview](README.md)
 
-# Problem 3. OpAmp in Cascade
+# Problem 4. OpAmp in Cascade
 
 ---------
 
@@ -12,7 +12,7 @@ Follow the circuit diagram in this textbook figure:
 
 <img src="media/cascade.png" width="900">
 
-* Set the input **$v_1$** to be your **x** value on the [README page](README.md), not 0.42V given.
+* Set the input **$v_1$** to be your **x** value on the [README page](README.md), not 0.42V.
 * Set the input **$v_2$** to be your **y** value on the [README page](README.md)
 * Use the same resistor values as in this figure.
 * Perform DC operating points analysis.
