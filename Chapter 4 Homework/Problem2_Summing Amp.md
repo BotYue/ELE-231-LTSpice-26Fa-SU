@@ -31,5 +31,6 @@ Follow the circuit diagram on the left side of this textbook figure:
 2. Include a LTSpice report of the DC operating point analysis. (*direct paste the list result*)
 
 3. Calculate the output voltage theoretically using the summing amp equation (listed in the figure above). 
-<br> Compare with your LTSpice analysis result.
 <br> Show calculation, not just final result.
+<br> Compare with your LTSpice analysis result.
+
