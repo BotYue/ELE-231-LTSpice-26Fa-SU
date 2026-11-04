@@ -7,6 +7,11 @@ All Op-Amp circuits in our ELE 231 course will be in the setting of **ideal op-a
 
 This tutorial shows you how to set up such circuit in LTSpice.
 
+- [ ] For the component, select from "Component -> OpAmps folder -> opamp", as shown in this pic.
+
+<img src="media/single_pole_amp.png" width="500">
+
+- [ ] 
 
 ## Task
 
@@ -14,7 +19,7 @@ In LTSpice, build this circuit with resistors.
 
 Set the **R1** and **R4** values, based on the **x, y**  on the [README page](README.md)
 
-<img src="media/nodal1.png" width="600">
+<img src="media/single_pole_amp.png" width="600">
 
 
 
