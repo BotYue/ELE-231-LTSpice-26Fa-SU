@@ -15,25 +15,29 @@ This tutorial shows you how to set up a simple voltage follower (also called as 
 - [ ] To do this, use **Label Net**. Two pins with the same net label are electrically connected, even if no wire is drawn between them.
 - [ ] You can also set net labels as **Input** or **Output** to make schematic easier to understand.
 
-- [ ] To conduct simulatation, add this to **SPICE Directives**
+- [ ] To conduct simulatation, add this to **SPICE Directives**:  `.lib opamp.sub`
 
-```
-.lib opamp.sub
-```
+<img src="media/spicetext.png" width="500">
 
 - [ ] Finally, perform DC operating points analysis **DC op pnt**.
 - [ ] The final schematic looks like such:
       
 
+<img src="media/full circuit.png" width="500">
+
+---------
 
 ## Task
 
-In LTSpice, build this circuit with resistors.
+In LTSpice, build the same circuit with in the tutorial. But:
 
-Set the **R1** and **R4** values, based on the **x, y**  on the [README page](README.md)
+* Set the input voltage to be your **x** value on the [README page](README.md)
+* Set the feedback resistance to be your **y** value on the [README page](README.md)
 
-<img src="media/single_pole_amp.png" width="600">
-
+> [!TIP]
+> If you have difficulty, I attach an example schematic file in the GitHub folder, named "OpAmp Minimal Wiring.asc", [quick link->](OpAmp%20Minimal%20Wiring.asc)
+>
+> You can download its raw file from GitHub, then open the downloaded .asc with LTSpice.
 
 
 -----
@@ -44,10 +48,7 @@ Set the **R1** and **R4** values, based on the **x, y**  on the [README page](RE
 
 2. Include a LTSpice report of the DC operating point analysis. (*direct paste the list result*)
 
-3. Provide a detailed, step-by-step nodal analysis to this circuit. You should write it as detailed as the instructor showed in class. (step 1...step 2... step 3...)
-   <br> You are expected the get the same final results as the simulation.
+3. Based on the analysis result, indicate what is the voltage at the output, what is the current thru the feedback resistor?
 
-   *(You may write the calculation by hand, take a clear photo, and insert the photo into the same document that you work on.)*
-
-
-
+> [!NOTE]
+> The LTSpice OpAmp model we used is very nearly ideal, but not perfectly ideal.
