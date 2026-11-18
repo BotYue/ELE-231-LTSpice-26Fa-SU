@@ -25,7 +25,11 @@ Configure it as such:
 - Tdelay[s]: 1n; Trise[s]: 1n; Tfall[s]: 1n
 - Ton[s]: 5; Tperiod[s]: 10
 
-<img src="media/RC_pulse.png" width="400">
+
+
+|  |   |
+|---------------------|------------------------------|
+| <img src="media/RC_pulse.png" width="400">| <img src="media/RC_schem.png" width="400"> |
 
 #### Note: Configure Analysis
 Then, in the **Analysis**, configure such:
