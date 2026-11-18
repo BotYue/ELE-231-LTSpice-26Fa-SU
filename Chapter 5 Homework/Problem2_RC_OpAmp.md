@@ -42,5 +42,5 @@ $$v(t)= \begin{cases} -2+4t, & 0\le t<1\\\ 6-4t, & 1\le t<2 \end{cases}  $$
   
 2. Include a screenshot of your circuit schematic.
 
-3. Include a screenshot with both Input $v_i(t)$ and Output $v_o(t)$ plots in the same figure.
+3. Include a screenshot with both Input $v_i(t)$ and Output $v_o(t)$ plots in the same figure (LTSpice Pane).
 
