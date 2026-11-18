@@ -13,7 +13,17 @@ Set the capacitance value $C$ = x uF,
 x value has been specified on the [README page](README.md)
 
 --------
-To represent such switch behavior, there is an easy way in LTSpice: **Advanced Voltage Source**
+
+#### Note: Represent a Switch in LTspice
+To represent such switch behavior, you can use **Advanced Voltage Source** in LTSpice.
+
+In the regular voltage source symbol, you can click "Advanced" and lead you to a new Window. 
+
+Configure it as such:
+- PULSE
+- Vinitial [V]: 2; Von[V]: 5
+- Tdelay[s]: 1n; Trise[s]: 1n; Tfall[s]: 1n
+- Ton[s]: 5; Tperiod[s]: 10
 
 -----
 
