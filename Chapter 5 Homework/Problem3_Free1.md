@@ -20,7 +20,7 @@ This repository contains a lot of LTspice circuits for various applications.
 
 ## :orange: Required in Your Homework Answer
 
-1. Indicate which circuit you selected, including its `.asc` filename, a screenshot of circuit schamtic.
+1. Indicate which circuit you selected, including its `.asc` filename, a screenshot of circuit schematic.
 2. Write at least **3 sentences** explaining what the circuit is used for and what you learned from exploring it. Your explanation should refer to the simulation results you obtained.
 3. Include LTspice plot(s) that support your explanation in Item 2. 
 
