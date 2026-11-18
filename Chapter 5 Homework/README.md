@@ -1,5 +1,5 @@
 # Chapter 5 LTSpice Homework
-## Circuit Terminology
+## RC, RL
 
 - **Due:** Monday, Dec 7, 11:59 PM
 - **Submission format:** PDF or Word, to BlackBoard
