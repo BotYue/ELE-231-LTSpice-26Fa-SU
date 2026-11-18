@@ -4,11 +4,11 @@
 
 ## Task
 
-In LTSpice, build this RC circuit.
+In LTSpice, build this RC Op Amp circuit.
 
 <img src="media/RC_OpAmp_diagram.png" width="400">
 
-Set the capacitance value R = 100kΩ, C=1uF, RL=20kΩ
+Set R = 100kΩ, C=1uF, RL=20kΩ
 
 Input $v_i$ will be a periodic triangle signal, with the first period as:
 
