@@ -29,7 +29,7 @@ Configure it as such:
 
 #### Note: Configure Analysis
 Then, in the **Analysis**, configure such:
-- Stop Time: use $10\tau$, where $\tau$ is your calculated Time Constant of this given circuit
+- Stop Time: use $10\tau$ (seconds), where $\tau$ is your calculated Time Constant of this given circuit
 - Time to start saving data: 0
 - Maximum Timestep: 10u
 
@@ -37,10 +37,13 @@ Then, in the **Analysis**, configure such:
 
 ## :orange: Required in your homework answer
 
-1. Include a screenshot of the plot of the current thru the voltage source, $I_x$.
+1. Based on the given circuit, calculate these theoretical values: $v_c(0)$, $v_c(\infty)$, $\tau$. 
 
-2. Include a quick calculation of Equivalent Resistance $R_{eq}$ based on $R_{eq}=V_x/I_x$.
+2. Derive the theoretical expression for $v_c(t)$ when $t\geq0$
 
-3. Include a detailed derivation and calculation of Equivalent Resistance $R_{eq}$ based on series-parallel reduction, like what you show in recitation worksheet. 
+3. Include a screenshot of your circuit schematic in LTSpice.
 
-   *(You may write the calculation by hand, take a clear photo, and insert the photo into the same document.)*
+4. Include a screenshot of your source signal plot in LTSpice.
+
+5. Include a screenshot of your $v_c(t)$ plot in LTSpice
+
