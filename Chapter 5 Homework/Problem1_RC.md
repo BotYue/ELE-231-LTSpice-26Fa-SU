@@ -29,7 +29,7 @@ Configure it as such:
 
 #### Note: Configure Analysis
 Then, in the **Analysis**, configure such:
-- Stop Time: use $10\tau$ (seconds), where $\tau$ is your calculated Time Constant of this given circuit
+- Stop Time: use $10\tau$ (seconds), where $\tau$ is the theoretical Time Constant of this given circuit (from your calculation)
 - Time to start saving data: 0
 - Maximum Timestep: 10u
 
